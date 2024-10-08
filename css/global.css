@@ -1,1 +1,38 @@
+form {
 
+    text-align: center;
+}
+
+
+p {
+
+    margin: 10px;
+}
+
+ body {
+    background-color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+
+ }
+
+color: #333;
+font-size: 24px;
+
+h1 {
+color: #333;
+font-size: 24px;
+}
+
+
+
+
+
+ 
+button {
+    background-color: #4CAF50; /* Verde */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
